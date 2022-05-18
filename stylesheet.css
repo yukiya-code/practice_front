@@ -1,0 +1,91 @@
+body{
+  margin: 0;
+  font-family: "Hiragino Kaku Gothic ProN";
+  background-image: url(https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG99lO3-pgPIK9akF5m2DMqwEPEFe-KtRMn4m_0igE6fQSumRuGB4mnVsr9PHTkUclPwKbhkluzwgJTUPtnBlRhM4x-hmH7yfwMRXYEBpbrlwugjBtaRtkSTjb3_YR45l-LxFRf-6K2wMGSv__81JrI2g8D_-ITGmtsitwslDJ68rFZ75DJmA7coYKoT0wvMhj2jEIpBI6VuC-t8jR3ES04X-lPEldlDamlLkFnLIJ-mPHt0uqNd_LC2KBy_3Xzcv136x1u7PE3hFj1tQl9OenK0=/ikuta_cam_12.jpg?errorImage=false);
+  background-size: cover;
+}
+
+header{
+  height: 65px;
+  width: 100%;
+  background-color: rgba(34, 49, 52, 1.0);
+  position: fixed;
+  top: 0;
+  z-index: 10;
+}
+
+.header-logo{
+  float: left;
+}
+
+header li{
+  list-style: none;
+  float: left;
+  padding: 8px 20px;
+}
+
+.professor{
+  height: 65px;
+}
+
+.header-items a{
+  color: white;
+  text-decoration:none;
+  opacity: 0.6;
+}
+
+a:hover{
+  opacity: 1.0;
+}
+
+.main{
+  margin-top: 65px;
+}
+
+h1{
+  margin: 0;
+  padding: 8px 0 0 10px;
+  font-size: 32px;
+  color: black;
+  opacity: 0.8;
+  background-color:rgb(58, 64, 215, 0.8);
+}
+
+h2{
+  margin: 0;
+  padding-left: 5px;
+  background-color: rgb(240, 236, 236, 0.5);
+}
+
+p{
+  margin: 0;
+  padding-left:15px;
+  background-color: rgb(240, 236, 236, 0.5);
+}
+
+.reference ul{
+  margin: 0;
+  background-color: rgb(240, 236, 236, 0.5);
+}
+
+.reference li{
+  padding-top: 5px;
+}
+
+.reference h1{
+  font-size: 17px;
+}
+
+.reference a{
+  color: blue;
+  text-decoration:none;
+  opacity: 0.6;
+}
+
+.reference a:hover{
+  opacity: 1.0;
+}
+
+li.last{
+  padding-bottom: 5px;
+}
