@@ -1,0 +1,72 @@
+h1 {
+  font-size: 50px;
+  border-bottom: 2px solid rgb(36, 0, 128);
+  margin: 0;
+  padding: 3px 0 3px 7px;
+  width: 1256px;
+}
+
+h2 {
+  font-size: 35px;
+  border-bottom: 2px solid rgb(36, 0, 128);
+  margin: 0;
+  padding: 3px 0 3px 20px;
+  width: 1243px;
+}
+
+h3 {
+  font-size: 25px;
+  border-bottom: 2px solid rgb(36, 0, 128);
+  margin: 0;
+  padding-left: 10px;
+}
+
+p{
+  padding: 20px 15px 0 15px;
+  margin: 0;
+  font-size: 20px
+}
+
+.last{
+  padding-bottom: 20px;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+}
+
+img{
+  width: 25%;
+}
+
+.profile{ 
+  position: absolute;
+  width: 25%;
+  height: 314px;
+  top: 144px;
+  left: 316px;
+  border-bottom: 2px solid rgb(36, 0, 128);
+  border-right: 2px solid rgb(36, 0, 128);
+}
+
+.detail{
+  position: absolute;
+  width: 25%;
+  height: 314px;
+  top: 144px;
+  left: 632px;
+  border-bottom: 2px solid rgb(36, 0, 128);
+  border-right: 2px solid rgb(36, 0, 128);
+}
+
+.sns{
+  position: absolute; 
+  width: 25%;
+  height: 314px;
+  top: 144px;
+  left: 945px;
+  border-bottom: 2px solid rgb(36, 0, 128);
+  border-right: 2px solid rgb(36, 0, 128);
+}
+
